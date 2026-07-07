@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:8A2BE2,100:4B0082&text=Sachi%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Researcher;Open+Source+Contributor;Building+Scalable+Applications"/>
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Applications"/>
 
 <br>
 
 ![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/VIT-Bhopal-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/Research-Published-8A2BE2?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20Source-Contributor-indigo?style=for-the-badge)
 
 <br>
@@ -36,11 +35,11 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+<!-- ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
 
 ![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6C63FF)
 
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=8A2BE2)
+![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=8A2BE2) -->
 
 </div>
 
@@ -135,8 +134,6 @@ Currently, I'm sharpening my **Data Structures & Algorithms** skills while deepe
 | OS | Linux, Windows |
 
 ---
-
-# Engineering Philosophy
 
 > **"Write clean code. Build scalable systems. Keep learning. Contribute back to the community."**
 
@@ -284,23 +281,23 @@ Designed and developed multiple academic and personal software projects using mo
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/sachijha_0904/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<a href="https://www.geeksforgeeks.org/profile/sachist87z">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/profile/sachi_st_dps">
 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://www.codechef.com/users/sachijha_0904">
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<a href="https://codeforces.com/profile/sachi.st.dps">
 <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge"/>
 </a>
 
@@ -329,9 +326,9 @@ Designed and developed multiple academic and personal software projects using mo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachijhaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachijhaa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -339,7 +336,7 @@ Designed and developed multiple academic and personal software projects using mo
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sachijhaa&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -349,7 +346,7 @@ Designed and developed multiple academic and personal software projects using mo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sachijhaa&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -359,7 +356,7 @@ Designed and developed multiple academic and personal software projects using mo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachijhaa&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -369,11 +366,9 @@ Designed and developed multiple academic and personal software projects using mo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sachijhaa/sachijhaa/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-> **Note:** This snake animation won't work automatically. After pushing your README, you'll need to add a GitHub Actions workflow to generate it.
 
 
 ---
