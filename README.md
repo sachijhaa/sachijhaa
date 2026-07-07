@@ -22,15 +22,15 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sachi-jha-76bb44331/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sachijha.14@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sachijhaa">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -48,13 +48,13 @@
 
 # About Me
 
-I'm a Computer Science undergraduate passionate about building scalable software, AI-driven applications, and developer-focused products.
+I'm a Computer Science undergraduate and a passionate **Full Stack Developer** who enjoys building scalable, user-centric applications that solve real-world problems.
 
-My interests span across **Software Engineering, Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and Open Source**.
+My primary interests lie in **Software Engineering, Full Stack Development, Artificial Intelligence, Large Language Models (LLMs), Machine Learning, Cloud Computing, and Open Source**. I'm constantly exploring emerging technologies and enjoy turning innovative ideas into impactful products.
 
-I enjoy transforming ideas into production-ready applications while following clean architecture, scalable design principles, and modern engineering practices.
+I strive to write clean, maintainable, and scalable code while following modern software engineering principles and best practices. Whether it's developing end-to-end web applications, experimenting with AI-powered solutions, or contributing to collaborative projects, I'm always eager to learn and grow.
 
-Currently I'm focused on strengthening Data Structures & Algorithms, backend development, Android development, and AI engineering to prepare for Software Engineering internships and full-time opportunities.
+Currently, I'm sharpening my **Data Structures & Algorithms** skills while deepening my expertise in **Full Stack Development, AI/ML, LLMs, and Open Source**, with the goal of becoming a skilled Software Engineer capable of building intelligent, scalable, and production-ready applications.
 
 ### Engineering Interests
 
@@ -76,7 +76,6 @@ Currently I'm focused on strengthening Data Structures & Algorithms, backend dev
 - Open Source Collaboration
 - Research Opportunities
 - Full Stack Development
-- Android Development
 
 ---
 
@@ -161,55 +160,10 @@ Currently I'm focused on strengthening Data Structures & Algorithms, backend dev
 
 ---
 
-# Featured Projects
+<!-- # Featured Projects
+
 
 <details open>
-<summary>
-
-## Lost Document & ID Tracking System
-
-</summary>
-
-### Overview
-
-A secure Lost & Found management platform developed to help users report, search, and recover important documents efficiently. The system provides authentication, QR code generation, image uploads, and a centralized dashboard for document management.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Python, Flask, HTML, CSS, JavaScript, SQLite |
-| Scale | Multi-user Web Application |
-| Performance | Lightweight & Fast |
-| Security | User Authentication, Validation |
-| Impact | Simplifies document recovery |
-| Repository | https://github.com/YOUR_USERNAME/lost-document-tracker |
-
-### Key Features
-
-- Secure Login & Registration
-- Report Lost Documents
-- Report Found Documents
-- QR Code Generation
-- Image Upload
-- Search Functionality
-- Dashboard
-- Responsive UI
-- Flask Backend
-- SQLite Database
-
-### Engineering Highlights
-
-- Modular Flask Architecture
-- REST-style Routing
-- Clean Frontend
-- File Upload Management
-- Form Validation
-- Scalable Design
-
-</details>
-
----
-
-<details>
 <summary>
 
 ## AI Sound Recognition Assistant
@@ -246,158 +200,12 @@ An intelligent accessibility-focused application capable of recognizing real-wor
 - Modular Backend
 - Expandable Dataset
 
-</details>
+</details> -->
+
 
 ---
 
-<details>
-<summary>
-
-## Apple Scab Disease Detection
-
-</summary>
-
-### Overview
-
-AI-powered agricultural solution developed for identifying Apple Scab disease from leaf images using deep learning techniques.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Python, TensorFlow, OpenCV |
-| Scale | Research Project |
-| Performance | High Accuracy Classification |
-| Security | Local Prediction |
-| Impact | Smart Agriculture |
-| Repository | https://github.com/YOUR_USERNAME/apple-scab-detection |
-
-### Features
-
-- Disease Detection
-- Image Classification
-- CNN Model
-- Dataset Preprocessing
-- Prediction Dashboard
-- Research Ready
-
-### Engineering Highlights
-
-- Deep Learning Pipeline
-- Image Augmentation
-- TensorFlow Models
-- OpenCV Processing
-- Agricultural AI
-
-</details>
-
----
-
-<details>
-<summary>
-
-## Portfolio Website
-
-</summary>
-
-### Overview
-
-Personal portfolio showcasing projects, technical skills, certifications, achievements, and professional experience.
-
-| Category | Details |
-|-----------|----------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Portfolio |
-| Performance | Optimized |
-| Security | Responsive Design |
-| Impact | Professional Branding |
-| Repository | https://github.com/YOUR_USERNAME/portfolio |
-
-### Features
-
-- Modern UI
-- Responsive Layout
-- Smooth Animations
-- Project Showcase
-- Contact Form
-- Resume Section
-
-### Engineering Highlights
-
-- Mobile First
-- Performance Optimized
-- Clean UI
-- SEO Friendly
-
-</details>
-
----
-
-<details>
-<summary>
-
-## DSA & Competitive Programming Repository
-
-</summary>
-
-### Overview
-
-A curated collection of Data Structures & Algorithms solutions covering LeetCode, CodeChef, GeeksforGeeks, and interview preparation.
-
-| Category | Details |
-|-----------|----------|
-| Stack | C++, STL |
-| Scale | 500+ Problems (Update Later) |
-| Performance | Optimized Solutions |
-| Security | Best Coding Practices |
-| Impact | Interview Preparation |
-| Repository | https://github.com/YOUR_USERNAME/DSA |
-
-### Topics Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Binary Search
-- Sliding Window
-- Heap
-- Stack
-- Queue
-
-### Engineering Highlights
-
-- Clean Code
-- Multiple Approaches
-- Time Complexity Analysis
-- Interview Notes
-- STL Usage
-- Regular Updates
-
-</details>
-
----
-
-# Engineering Principles
-
-<div align="center">
-
-| Principle | Description |
-|------------|-------------|
-| Clean Code | Maintainable & Readable |
-| Scalability | Designed for Growth |
-| Performance | Efficient Algorithms |
-| Security | Secure Development Practices |
-| Testing | Reliability First |
-| Collaboration | Team-oriented Development |
-| Continuous Learning | Constant Skill Improvement |
-
-</div>
-
----
-
-# Professional Experience
+<!-- # Professional Experience
 
 ## Research Author
 
@@ -451,9 +259,9 @@ Designed and developed multiple academic and personal software projects using mo
 `Git`
 `GitHub`
 
----
+--- -->
 
-# Achievements
+<!-- # Achievements
 
 <div align="center">
 
@@ -468,39 +276,7 @@ Designed and developed multiple academic and personal software projects using mo
 
 </div>
 
----
-
-# Certifications
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Cloud_Computing-blueviolet?style=for-the-badge)
-
-![](https://img.shields.io/badge/NPTEL-Elite-success?style=for-the-badge)
-
----
-
-## IEEE
-
-![](https://img.shields.io/badge/IEEE-Research_Publication-8A2BE2?style=for-the-badge)
-
----
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-red?style=for-the-badge)
-
----
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud_Learning-FF9900?style=for-the-badge)
-
----
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+--- -->
 
 ---
 
@@ -546,25 +322,6 @@ Designed and developed multiple academic and personal software projects using mo
 | Cloud | Firebase, AWS (Learning) |
 | Soft Skills | Leadership, Communication, Teamwork |
 
----
-
-# Learning Journey
-
-✅ Data Structures & Algorithms
-
-✅ Software Engineering
-
-✅ Artificial Intelligence
-
-✅ Machine Learning
-
-✅ Backend Development
-
-✅ Android Development
-
-✅ System Design
-
-✅ Open Source Contributions
 
 ---
 
@@ -618,52 +375,6 @@ Designed and developed multiple academic and personal software projects using mo
 
 > **Note:** This snake animation won't work automatically. After pushing your README, you'll need to add a GitHub Actions workflow to generate it.
 
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - System Design
-  - Backend Development
-  - Android Development
-  - Cloud Computing
-  - Artificial Intelligence
-
-Building:
-  - Full Stack Applications
-  - AI Powered Solutions
-  - Open Source Projects
-  - Portfolio Enhancements
-
-Exploring:
-  - Generative AI
-  - Large Language Models
-  - Docker
-  - Kubernetes
-  - AWS Cloud
-  - DevOps
-
-Open To:
-  - Software Engineering Internship
-  - AI/ML Internship
-  - Research Collaboration
-  - Open Source Contributions
-```
-
----
-
-# 2026 Goals
-
-- Solve **500+ DSA Problems**
-- Publish More Research Papers
-- Contribute to Open Source
-- Build Scalable Full Stack Projects
-- Learn System Design
-- Master Backend Engineering
-- Explore Cloud & DevOps
-- Secure a Software Engineering Internship
 
 ---
 
@@ -671,33 +382,24 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sachijha.14@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sachi-jha-76bb44331/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sachijhaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO.com">
+<!-- <a href="https://YOUR_PORTFOLIO.com">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+</a> -->
 
 </div>
 
----
-
-# Support My Work
-
-<div align="center">
-
-If you like my work, consider giving a ⭐ to my repositories and following my GitHub profile.
-
-</div>
 
 ---
 
